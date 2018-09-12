@@ -1,6 +1,8 @@
 [submodule "Phones"]
 	path = Phones
 	url = https://github.com/NickHaski/Phones.git
+	branch = master
 [submodule "Orders"]
 	path = Orders
 	url = https://github.com/NickHaski/Orders.git
+	branch = master
